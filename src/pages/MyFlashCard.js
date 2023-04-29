@@ -35,7 +35,7 @@ const MyFlashCard = () => {
         </div>
       ) : (
         <div className="flex items-center justify-center bg-white shadow-lg p-20">
-            <img src="https://i.pinimg.com/564x/ae/8a/c2/ae8ac2fa217d23aadcc913989fcc34a2.jpg"/>
+            <img src="https://cdn-icons-png.flaticon.com/512/9583/9583265.png"/>
           <h1 className="font-semibold text-xl text-slate-500">
             Nothing to SHOW, Go to{" "}
             <span
