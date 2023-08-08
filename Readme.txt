@@ -2,7 +2,7 @@ FlashCare Generator React Project
 Generate flashcards for effective studying and memorization.
 
 Installation
-Clone the repository: git clone https://github.com/your-username/flashcare-generator.git
+Clone the repository: git clone https://github.com/your-username/flashcare
 Navigate to the project directory: cd flashcare-generator
 Install dependencies: npm install  
 
