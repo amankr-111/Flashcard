@@ -4,7 +4,7 @@ import * as Yup from "yup";
 const FlashCardSchema = Yup.object().shape({
   groupid: Yup.string(),
   groupname: Yup.string()
-    .max(20, "Must be less than 20 characters")
+    .max(20, "Must be less than 25 characters")
     .required("Required"),
   groupdescription: Yup.string().max(300, "Must be less than 300 characters"),
   groupimg: Yup.mixed(),
